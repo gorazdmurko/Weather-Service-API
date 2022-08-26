@@ -1,4 +1,7 @@
 # Weather-Service-Historical-Data
+1. run ServerMain
+2. run MainApp
+3. run Tomcat served for web part of api
 
 # DEPENDENCIES
 # 1. DesktopGUI
