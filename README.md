@@ -1,24 +1,24 @@
 # Weather-Service-Historical-Data
 
 # DEPENDENCIES
-1. DesktopGUI
-  - WeatherServiceITF
+# 1. DesktopGUI
+  1. WeatherServiceITF
   
-2. RestService
-  - WeatherApiAdapter
-  - WeatherService
-  - WeatherServiceITF
+# 2. RestService
+  1. WeatherApiAdapter
+  2. WeatherService
+  3. WeatherServiceITF
 
-3. WeatherApiAdapter
-  - WeatherService
-  - WeatherServiceITF
+# 3. WeatherApiAdapter
+  1. WeatherService
+  2. WeatherServiceITF
 
-4. WeatherServer
-  4.1. WeatherService
-  4.2. WeatherServiceITF
-  4.3. WeatherApiAdapter
+# 4. WeatherServer
+  1. WeatherService
+  2. WeatherServiceITF
+  3. WeatherApiAdapter
 
-5. WeatherService
-  5.1. WeatherServiceITF
+# 5. WeatherService
+  1. WeatherServiceITF
 
-6. WeatherServiceITF
+# 6. WeatherServiceITF
