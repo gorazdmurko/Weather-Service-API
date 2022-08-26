@@ -1,0 +1,121 @@
+[ {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643068800000,
+  "temp_c" : 11.6
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643072400000,
+  "temp_c" : 11.9
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643076000000,
+  "temp_c" : 12.1
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643079600000,
+  "temp_c" : 12.4
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643083200000,
+  "temp_c" : 12.2
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643086800000,
+  "temp_c" : 12.1
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643090400000,
+  "temp_c" : 11.9
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643094000000,
+  "temp_c" : 14.3
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643097600000,
+  "temp_c" : 16.7
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643101200000,
+  "temp_c" : 19.1
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643104800000,
+  "temp_c" : 21.3
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643108400000,
+  "temp_c" : 23.5
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643112000000,
+  "temp_c" : 25.7
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643115600000,
+  "temp_c" : 26.5
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643119200000,
+  "temp_c" : 27.2
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643122800000,
+  "temp_c" : 28.0
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643126400000,
+  "temp_c" : 25.8
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643130000000,
+  "temp_c" : 23.7
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643133600000,
+  "temp_c" : 21.5
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643137200000,
+  "temp_c" : 18.9
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643140800000,
+  "temp_c" : 16.2
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643144400000,
+  "temp_c" : 13.6
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643148000000,
+  "temp_c" : 14.0
+}, {
+  "location" : "Kairo",
+  "country" : "Kenya",
+  "time" : 1643151600000,
+  "temp_c" : 14.3
+} ]

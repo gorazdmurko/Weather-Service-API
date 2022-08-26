@@ -1,0 +1,266 @@
+{
+  "location" : {
+    "name" : "Bern",
+    "region" : "",
+    "country" : "Switzerland"
+  },
+  "forecast" : {
+    "forecastday" : [ {
+      "date" : "2021-12-13",
+      "day" : {
+        "condition" : {
+          "text" : "Freezing fog",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/260.png",
+          "code" : 1147
+        },
+        "maxtemp_c" : 3.2,
+        "mintemp_c" : -6.6
+      },
+      "astro" : {
+        "sunrise" : "08:07 AM",
+        "sunset" : "04:41 PM"
+      },
+      "hour" : [ {
+        "time" : "2021-12-13 00:00",
+        "temp_c" : -6.1,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1031.0,
+        "humidity" : 93
+      }, {
+        "time" : "2021-12-13 01:00",
+        "temp_c" : -6.3,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1031.0,
+        "humidity" : 93
+      }, {
+        "time" : "2021-12-13 02:00",
+        "temp_c" : -6.4,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1031.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 03:00",
+        "temp_c" : -6.6,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1031.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 04:00",
+        "temp_c" : -6.6,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1032.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 05:00",
+        "temp_c" : -6.5,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1032.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 06:00",
+        "temp_c" : -6.5,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1032.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 07:00",
+        "temp_c" : -6.0,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1032.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 08:00",
+        "temp_c" : -5.6,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1031.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 09:00",
+        "temp_c" : -5.1,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1031.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 10:00",
+        "temp_c" : -2.5,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1031.0,
+        "humidity" : 93
+      }, {
+        "time" : "2021-12-13 11:00",
+        "temp_c" : 0.2,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1030.0,
+        "humidity" : 92
+      }, {
+        "time" : "2021-12-13 12:00",
+        "temp_c" : 2.8,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1029.0,
+        "humidity" : 91
+      }, {
+        "time" : "2021-12-13 13:00",
+        "temp_c" : 2.9,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1029.0,
+        "humidity" : 94
+      }, {
+        "time" : "2021-12-13 14:00",
+        "temp_c" : 3.1,
+        "condition" : {
+          "text" : "Fog",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/248.png",
+          "code" : 1135
+        },
+        "pressure_mb" : 1028.0,
+        "humidity" : 96
+      }, {
+        "time" : "2021-12-13 15:00",
+        "temp_c" : 3.2,
+        "condition" : {
+          "text" : "Fog",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/248.png",
+          "code" : 1135
+        },
+        "pressure_mb" : 1028.0,
+        "humidity" : 99
+      }, {
+        "time" : "2021-12-13 16:00",
+        "temp_c" : 1.5,
+        "condition" : {
+          "text" : "Fog",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/248.png",
+          "code" : 1135
+        },
+        "pressure_mb" : 1029.0,
+        "humidity" : 99
+      }, {
+        "time" : "2021-12-13 17:00",
+        "temp_c" : -0.2,
+        "condition" : {
+          "text" : "Freezing fog",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/260.png",
+          "code" : 1147
+        },
+        "pressure_mb" : 1029.0,
+        "humidity" : 99
+      }, {
+        "time" : "2021-12-13 18:00",
+        "temp_c" : -1.9,
+        "condition" : {
+          "text" : "Freezing fog",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/260.png",
+          "code" : 1147
+        },
+        "pressure_mb" : 1030.0,
+        "humidity" : 99
+      }, {
+        "time" : "2021-12-13 19:00",
+        "temp_c" : -2.0,
+        "condition" : {
+          "text" : "Freezing fog",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/260.png",
+          "code" : 1147
+        },
+        "pressure_mb" : 1030.0,
+        "humidity" : 98
+      }, {
+        "time" : "2021-12-13 20:00",
+        "temp_c" : -2.0,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1030.0,
+        "humidity" : 97
+      }, {
+        "time" : "2021-12-13 21:00",
+        "temp_c" : -2.1,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1030.0,
+        "humidity" : 97
+      }, {
+        "time" : "2021-12-13 22:00",
+        "temp_c" : -1.9,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1030.0,
+        "humidity" : 97
+      }, {
+        "time" : "2021-12-13 23:00",
+        "temp_c" : -1.8,
+        "condition" : {
+          "text" : "Mist",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/143.png",
+          "code" : 1030
+        },
+        "pressure_mb" : 1030.0,
+        "humidity" : 96
+      } ]
+    } ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "location" : {
+    "name" : "Sydney",
+    "region" : "New South Wales",
+    "country" : "Australia"
+  },
+  "forecast" : {
+    "forecastday" : [ {
+      "date" : "2022-01-25",
+      "day" : {
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "maxtemp_c" : 25.8,
+        "mintemp_c" : 20.4
+      },
+      "astro" : {
+        "sunrise" : "06:09 AM",
+        "sunset" : "08:05 PM"
+      },
+      "hour" : [ {
+        "time" : "2022-01-25 00:00",
+        "temp_c" : 20.9,
+        "condition" : {
+          "text" : "Cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/119.png",
+          "code" : 1006
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 76
+      }, {
+        "time" : "2022-01-25 01:00",
+        "temp_c" : 20.7,
+        "condition" : {
+          "text" : "Cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/119.png",
+          "code" : 1006
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 77
+      }, {
+        "time" : "2022-01-25 02:00",
+        "temp_c" : 20.6,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 77
+      }, {
+        "time" : "2022-01-25 03:00",
+        "temp_c" : 20.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 78
+      }, {
+        "time" : "2022-01-25 04:00",
+        "temp_c" : 20.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 78
+      }, {
+        "time" : "2022-01-25 05:00",
+        "temp_c" : 20.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 78
+      }, {
+        "time" : "2022-01-25 06:00",
+        "temp_c" : 20.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 78
+      }, {
+        "time" : "2022-01-25 07:00",
+        "temp_c" : 21.3,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 73
+      }, {
+        "time" : "2022-01-25 08:00",
+        "temp_c" : 22.2,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 68
+      }, {
+        "time" : "2022-01-25 09:00",
+        "temp_c" : 23.1,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 64
+      }, {
+        "time" : "2022-01-25 10:00",
+        "temp_c" : 23.9,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 63
+      }, {
+        "time" : "2022-01-25 11:00",
+        "temp_c" : 24.6,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 62
+      }, {
+        "time" : "2022-01-25 12:00",
+        "temp_c" : 25.4,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 61
+      }, {
+        "time" : "2022-01-25 13:00",
+        "temp_c" : 25.5,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 62
+      }, {
+        "time" : "2022-01-25 14:00",
+        "temp_c" : 25.7,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 63
+      }, {
+        "time" : "2022-01-25 15:00",
+        "temp_c" : 25.8,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1009.0,
+        "humidity" : 63
+      }, {
+        "time" : "2022-01-25 16:00",
+        "temp_c" : 25.5,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 64
+      }, {
+        "time" : "2022-01-25 17:00",
+        "temp_c" : 25.1,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 66
+      }, {
+        "time" : "2022-01-25 18:00",
+        "temp_c" : 24.8,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1010.0,
+        "humidity" : 67
+      }, {
+        "time" : "2022-01-25 19:00",
+        "temp_c" : 23.9,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1011.0,
+        "humidity" : 68
+      }, {
+        "time" : "2022-01-25 20:00",
+        "temp_c" : 22.9,
+        "condition" : {
+          "text" : "Sunny",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/day/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 68
+      }, {
+        "time" : "2022-01-25 21:00",
+        "temp_c" : 22.0,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1013.0,
+        "humidity" : 69
+      }, {
+        "time" : "2022-01-25 22:00",
+        "temp_c" : 21.7,
+        "condition" : {
+          "text" : "Clear",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/113.png",
+          "code" : 1000
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 69
+      }, {
+        "time" : "2022-01-25 23:00",
+        "temp_c" : 21.4,
+        "condition" : {
+          "text" : "Partly cloudy",
+          "icon" : "//cdn.weatherapi.com/weather/64x64/night/116.png",
+          "code" : 1003
+        },
+        "pressure_mb" : 1012.0,
+        "humidity" : 70
+      } ]
+    } ]
+  }
+}

@@ -1,0 +1,121 @@
+[ {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639353600000,
+  "temp_c" : -6.1
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639357200000,
+  "temp_c" : -6.3
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639360800000,
+  "temp_c" : -6.4
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639364400000,
+  "temp_c" : -6.6
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639368000000,
+  "temp_c" : -6.6
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639371600000,
+  "temp_c" : -6.5
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639375200000,
+  "temp_c" : -6.5
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639378800000,
+  "temp_c" : -6.0
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639382400000,
+  "temp_c" : -5.6
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639386000000,
+  "temp_c" : -5.1
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639389600000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639393200000,
+  "temp_c" : 0.2
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639396800000,
+  "temp_c" : 2.8
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639400400000,
+  "temp_c" : 2.9
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639404000000,
+  "temp_c" : 3.1
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639407600000,
+  "temp_c" : 3.2
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639411200000,
+  "temp_c" : 1.5
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639414800000,
+  "temp_c" : -0.2
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639418400000,
+  "temp_c" : -1.9
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639422000000,
+  "temp_c" : -2.0
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639425600000,
+  "temp_c" : -2.0
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639429200000,
+  "temp_c" : -2.1
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639432800000,
+  "temp_c" : -1.9
+}, {
+  "location" : "Bern",
+  "country" : "Switzerland",
+  "time" : 1639436400000,
+  "temp_c" : -1.8
+} ]

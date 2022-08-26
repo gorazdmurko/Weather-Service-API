@@ -1,0 +1,121 @@
+[ {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643068800000,
+  "temp_c" : 20.9
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643072400000,
+  "temp_c" : 20.7
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643076000000,
+  "temp_c" : 20.6
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643079600000,
+  "temp_c" : 20.4
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643083200000,
+  "temp_c" : 20.4
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643086800000,
+  "temp_c" : 20.4
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643090400000,
+  "temp_c" : 20.4
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643094000000,
+  "temp_c" : 21.3
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643097600000,
+  "temp_c" : 22.2
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643101200000,
+  "temp_c" : 23.1
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643104800000,
+  "temp_c" : 23.9
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643108400000,
+  "temp_c" : 24.6
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643112000000,
+  "temp_c" : 25.4
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643115600000,
+  "temp_c" : 25.5
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643119200000,
+  "temp_c" : 25.7
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643122800000,
+  "temp_c" : 25.8
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643126400000,
+  "temp_c" : 25.5
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643130000000,
+  "temp_c" : 25.1
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643133600000,
+  "temp_c" : 24.8
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643137200000,
+  "temp_c" : 23.9
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643140800000,
+  "temp_c" : 22.9
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643144400000,
+  "temp_c" : 22.0
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643148000000,
+  "temp_c" : 21.7
+}, {
+  "location" : "Sydney",
+  "country" : "Australia",
+  "time" : 1643151600000,
+  "temp_c" : 21.4
+} ]

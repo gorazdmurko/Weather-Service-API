@@ -1,0 +1,121 @@
+[ {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643068800000,
+  "temp_c" : 3.5
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643072400000,
+  "temp_c" : 3.2
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643076000000,
+  "temp_c" : 2.8
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643079600000,
+  "temp_c" : 2.5
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643083200000,
+  "temp_c" : 2.3
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643086800000,
+  "temp_c" : 2.1
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643090400000,
+  "temp_c" : 1.9
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643094000000,
+  "temp_c" : 2.7
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643097600000,
+  "temp_c" : 3.4
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643101200000,
+  "temp_c" : 4.2
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643104800000,
+  "temp_c" : 6.0
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643108400000,
+  "temp_c" : 7.9
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643112000000,
+  "temp_c" : 9.7
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643115600000,
+  "temp_c" : 10.0
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643119200000,
+  "temp_c" : 10.2
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643122800000,
+  "temp_c" : 10.5
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643126400000,
+  "temp_c" : 10.1
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643130000000,
+  "temp_c" : 9.6
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643133600000,
+  "temp_c" : 9.2
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643137200000,
+  "temp_c" : 8.7
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643140800000,
+  "temp_c" : 8.3
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643144400000,
+  "temp_c" : 7.8
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643148000000,
+  "temp_c" : 6.7
+}, {
+  "location" : "Osaka-Shi",
+  "country" : "Japan",
+  "time" : 1643151600000,
+  "temp_c" : 5.5
+} ]

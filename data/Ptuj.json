@@ -1,0 +1,121 @@
+[ {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643673600000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643677200000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643680800000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643684400000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643688000000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643691600000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643695200000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643698800000,
+  "temp_c" : -1.3
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643702400000,
+  "temp_c" : -0.0
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643706000000,
+  "temp_c" : 1.2
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643709600000,
+  "temp_c" : 2.9
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643713200000,
+  "temp_c" : 4.7
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643716800000,
+  "temp_c" : 6.4
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643720400000,
+  "temp_c" : 6.2
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643724000000,
+  "temp_c" : 5.9
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643727600000,
+  "temp_c" : 5.7
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643731200000,
+  "temp_c" : 3.9
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643734800000,
+  "temp_c" : 2.2
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643738400000,
+  "temp_c" : 0.4
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643742000000,
+  "temp_c" : -0.6
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643745600000,
+  "temp_c" : -1.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643749200000,
+  "temp_c" : -2.5
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643752800000,
+  "temp_c" : -2.3
+}, {
+  "location" : "Ptuj",
+  "country" : "Slovenia",
+  "time" : 1643756400000,
+  "temp_c" : -2.2
+} ]
