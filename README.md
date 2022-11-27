@@ -1,4 +1,4 @@
-# Weather-Service-Historical-Data
+# Weather-Service-API
 1. run ServerMain -- essential for MainApp
 2. run MainApp -- to start desktop application
 3. run Tomcat served -- for web part of api
